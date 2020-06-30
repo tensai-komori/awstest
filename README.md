@@ -1,2 +1,3 @@
 # awstest
 awstest
+test input
